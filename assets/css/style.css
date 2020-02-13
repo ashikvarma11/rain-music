@@ -20,12 +20,12 @@ h1{
 	position: absolute;
 	top:35%;
 	left:30%;
-	color: #004d40;
+	color: #c6cfc8;
 	font-family: 'MontSerrat';
 	font-size:10rem;
 	text-transform: uppercase;
 	width: auto;
 	line-height: .8em;
-	border:5px solid #004d40;
+	border:5px solid #c6cfc8;
 	padding: .2em;
 }
