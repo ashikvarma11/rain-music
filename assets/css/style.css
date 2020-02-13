@@ -1,0 +1,31 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background: black;
+  overflow: hidden;
+}
+
+.seekControl{
+	position:absolute;
+	z-index: 1
+	width:300px;
+	left:50%;
+	top:70%;
+
+
+}
+
+h1{
+	position: absolute;
+	top:35%;
+	left:30%;
+	color: #004d40;
+	font-family: 'MontSerrat';
+	font-size:10rem;
+	text-transform: uppercase;
+	width: auto;
+	line-height: .8em;
+	border:5px solid #004d40;
+	padding: .2em;
+}
