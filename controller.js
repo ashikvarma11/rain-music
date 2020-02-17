@@ -1,9 +1,7 @@
 
-function updateControls(){
+// export default function updateLight(){
 
-  return new Promise((resolve,reject)=>{
-    cont = {'pointLight':'0x062d89'}
+//     light = {'pointLight':'0x062d89'}
+//     return light
 
-    });
-}
-
+// }
