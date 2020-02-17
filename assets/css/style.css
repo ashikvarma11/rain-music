@@ -45,6 +45,7 @@ h4{
 }
 
 #slider-container{
+	display: none;
 	position:absolute;
 	right:-10%;
 	top:10%;
