@@ -122,7 +122,8 @@ song.once('load', function(){
 });
 
 var rainSound = new Howl({
-  src: ['rain-01.mp3'],
+  src: ['assets/music/light-rain-thunder.mp3',
+  'assets/music/more-thunder.mp3'],
   autoplay:true,
 
   loop:true
